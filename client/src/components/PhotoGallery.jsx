@@ -1,12 +1,12 @@
 // src/components/PhotoGallery.jsx
 export default function PhotoGallery() {
   const media = [
-    { type: "image", src: "/images/gallery/photo1.jpeg", alt: "Medical Camp" },
-    { type: "image", src: "/images/gallery/photo2.jpeg", alt: "Empowerment Talk" },
+    { type: "image", src: "/images/gallery/photo1.jpg", alt: "Medical Camp" },
+    { type: "image", src: "/images/gallery/photo2.jpg", alt: "Empowerment Talk" },
     { type: "video", src: "/images/gallery/video1.mp4", alt: "Training Session" },
-    { type: "image", src: "/images/gallery/photo3.jpeg", alt: "Widower Wellness" },
+    { type: "image", src: "/images/gallery/photo3.jpg", alt: "Widower Wellness" },
     { type: "video", src: "/images/gallery/video2.mp4", alt: "Support Group Testimony" },
-    { type: "image", src: "/images/gallery/photo4.jpeg", alt: "Nutritional Support" },
+    { type: "image", src: "/images/gallery/photo4.jpg", alt: "Support" },
   ];
 
   return (
