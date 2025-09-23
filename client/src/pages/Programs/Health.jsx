@@ -1,5 +1,5 @@
 // src/pages/Programs/Health.jsx
-<<<<<<< HEAD
+
 import healthImg from "../../assets/health.jpg";
 import ImageCarousel from "../../components/Carousel";
 
@@ -11,19 +11,7 @@ const healthImages = [
   { src: "/images/carousel/67.jpeg"},
   { src: "/images/carousel/68.jpeg"},
   { src: "/images/carousel/69.jpeg" }
-=======
-import healthImg from "../../assets/health.jpeg";
-import ImageCarousel from "../../components/Carousel";
 
-const healthImages = [
-  { src: "/images/carousel/1.jpeg", caption: "Mobile Medical Camp" },
-  { src: "/images/carousel/3.jpeg", caption: "Health Workshops" },
-  { src: "/images/carousel/4.jpeg", caption: " SHA Education" },
-  { src: "/images/carousel/50.jpeg", caption: "Widowers Health Support" },
-  { src: "/images/carousel/5.jpeg", caption: "Community Health Outreach" },
-  { src: "/images/carousel/6.jpeg", caption: "Health Awareness" },
-  { src: "/images/carousel/30.jpeg", caption: "Elderly Care Programs" },
->>>>>>> f9b6c8ae3fa8909e84750c322093353bbd2b02a6
 ];
 
 export default function Health() {

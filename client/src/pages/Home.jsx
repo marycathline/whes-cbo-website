@@ -14,7 +14,7 @@ function ImpactCard({ number, title, description }) {
   );
 }
 
-<<<<<<< HEAD
+
 // ✅ Image data moved outside the components
 const homeImages = [
   { src: "/images/carousel/1.jpeg"},
@@ -27,20 +27,6 @@ const homeImages = [
   { src: "/images/carousel/8.jpeg" },
   { src: "/images/carousel/9.jpeg" },
   { src: "/images/carousel/10.jpeg"},
-=======
-// ✅ Image data moved outside the component
-const homeImages = [
-  { src: "/images/carousel/1.jpeg", caption: "Health Outreach" },
-  { src: "/images/carousel/2.jpeg", caption: "Empowering Widowers" },
-  { src: "/images/carousel/3.jpeg", caption: "Support Services in Migori" },
-  { src: "/images/carousel/4.jpeg", caption: "Mobile Medical Camp" },
-  { src: "/images/carousel/5.jpeg", caption: "Community Workshops" },
-  { src: "/images/carousel/6.jpeg", caption: "Advocacy and Awareness" },
-  { src: "/images/carousel/7.jpeg", caption: "Building Futures Together" },
-  { src: "/images/carousel/8.jpeg", caption: "Empowerment Through Education" },
-  { src: "/images/carousel/9.jpeg", caption: "Strengthening Communities" },
-  { src: "/images/carousel/10.jpeg", caption: "Together We Rise" },
->>>>>>> f9b6c8ae3fa8909e84750c322093353bbd2b02a6
 
 ];
 

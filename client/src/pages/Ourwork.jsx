@@ -1,18 +1,13 @@
 import { Link } from "react-router-dom";
-<<<<<<< HEAD
+
 import healthImg from "../assets/health.jpg";
 import socialImg from "../assets/social.jpg";
 import elderlyImg from "../assets/elderly.jpg";
-=======
-import healthImg from "../assets/health.jpeg";
-import socialImg from "../assets/social.jpeg";
-import elderlyImg from "../assets/elderly.jpeg";
->>>>>>> f9b6c8ae3fa8909e84750c322093353bbd2b02a6
 
 import ImageCarousel from "../components/Carousel";
 
 const programImages = [
-<<<<<<< HEAD
+
   { src: "/images/carousel/51.jpeg"},
   { src: "/images/carousel/52.jpeg" },
   { src: "/images/carousel/53.jpeg" },
@@ -20,15 +15,7 @@ const programImages = [
   { src: "/images/carousel/55.jpeg" },
   { src: "/images/carousel/56.jpeg" },
   { src: "/images/carousel/57.jpeg" },
-=======
-  { src: "/images/carousel/51.jpeg", caption: "Health Support" },
-  { src: "/images/carousel/52.jpeg", caption: "Support Services" },
-  { src: "/images/carousel/53.jpeg", caption: "Access to Healthcare" },
-  { src: "/images/carousel/67.jpeg", caption: "Community Outreach" },
-  { src: "/images/carousel/55.jpeg", caption: "Health awareness" },
-  { src: "/images/carousel/56.jpeg", caption: "SHA registration" },
-  { src: "/images/carousel/57.jpeg", caption: "support services"},
->>>>>>> f9b6c8ae3fa8909e84750c322093353bbd2b02a6
+
 
   
 ];

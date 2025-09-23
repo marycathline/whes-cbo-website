@@ -3,7 +3,7 @@ import { MdLocationOn, MdEmail, MdPhone, MdInbox } from "react-icons/md";
 import ImageCarousel from "../components/Carousel";
 
 const contactImages = [
-<<<<<<< HEAD
+
   { src: "/images/carousel/31.jpeg" },
   { src: "/images/carousel/32.jpeg"},
   { src: "/images/carousel/33.jpeg" },
@@ -14,18 +14,7 @@ const contactImages = [
   { src: "/images/carousel/38.jpeg"},
   { src: "/images/carousel/39.jpeg"},
   { src: "/images/carousel/40.jpeg" },
-=======
-  { src: "/images/carousel/31.jpeg", caption: "Reach Out to WHESS" },
-  { src: "/images/carousel/32.jpeg", caption: "Join the Conversation" },
-  { src: "/images/carousel/30.jpeg", caption: "We’re Here to Help" },
-  { src: "/images/carousel/34.jpeg", caption: "Connect with Us" },
-  { src: "/images/carousel/35.jpeg", caption: "Your Voice Matters" },
-  { src: "/images/carousel/36.jpeg", caption: "Together We Can Make a Difference" },
-  { src: "/images/carousel/37.jpeg", caption: "Empowering Communities" },
-  { src: "/images/carousel/38.jpeg", caption: "Building Bridges" },
-  { src: "/images/carousel/39.jpeg", caption: "Transforming Lives Together" },
-  { src: "/images/carousel/40.jpeg", caption: "Contact WHESS Today" },
->>>>>>> f9b6c8ae3fa8909e84750c322093353bbd2b02a6
+
 ];
 
 export default function Contact() {

@@ -2,17 +2,13 @@
 import React, { useState } from "react";
 import samwel from "../assets/samwel.jpeg";
 import barrack from "../assets/barrack.jpeg";
-<<<<<<< HEAD
 import frank from "../assets/frank.png";
-=======
-import frank from "../assets/frank.jpeg";
->>>>>>> f9b6c8ae3fa8909e84750c322093353bbd2b02a6
 import psomollo from "../assets/ps-omollo.jpeg";
 import ImageCarousel from "../components/Carousel";
 
 const aboutImages = [
   
-<<<<<<< HEAD
+
   { src: "/images/carousel/11.jpeg"},
   { src: "/images/carousel/12.jpeg" },
   { src: "/images/carousel/13.jpeg"},
@@ -23,18 +19,6 @@ const aboutImages = [
   { src: "/images/carousel/18.jpeg" },
   { src: "/images/carousel/19.jpeg" },
   { src: "/images/carousel/20.jpeg" },
-=======
-  { src: "/images/carousel/11.jpeg", caption: "Support Services" },
-  { src: "/images/carousel/12.jpeg", caption: "Empowering Widowers" },
-  { src: "/images/carousel/13.jpeg", caption: "Support Services" },
-  { src: "/images/carousel/14.jpeg", caption: "Empowerment" },
-  { src: "/images/carousel/15.jpeg", caption: "Strengthening Communities" },
-  { src: "/images/carousel/16.jpeg", caption: "Advocacy and Awareness" },
-  { src: "/images/carousel/17.jpeg", caption: "Empowerment Through Education" },
-  { src: "/images/carousel/18.jpeg", caption: "Empowerment Through Education" },
-  { src: "/images/carousel/19.jpeg", caption: "Strengthening Communities" },
-  { src: "/images/carousel/20.jpeg", caption: "Together We Rise" },
->>>>>>> f9b6c8ae3fa8909e84750c322093353bbd2b02a6
 ];
 
 export default function About() {

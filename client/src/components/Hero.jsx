@@ -1,9 +1,6 @@
 import { Link } from "react-router-dom";
-<<<<<<< HEAD
 import logo from '../assets/logo.png';
-=======
-import logo from '../assets/logo.jpg';
->>>>>>> f9b6c8ae3fa8909e84750c322093353bbd2b02a6
+
 
 export default function Hero() {
   return (

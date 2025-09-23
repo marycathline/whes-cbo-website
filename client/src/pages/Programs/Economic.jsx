@@ -1,5 +1,4 @@
 // src/pages/Programs/Economic.jsx
-<<<<<<< HEAD
 import socialImg from '../../assets/social.jpg';
 import ImageCarousel from '../../components/Carousel';
 
@@ -14,22 +13,7 @@ const socialImages = [
   { src: "/images/carousel/23.jpeg" },
   { src: "/images/carousel/24.jpeg"},
   { src: "/images/carousel/25.jpeg" },
-=======
-import socialImg from '../../assets/social.jpeg';
-import ImageCarousel from '../../components/Carousel';
 
-const socialImages = [
-  { src: "/images/carousel/16.jpeg", caption: "Social Empowerment" },
-  { src: "/images/carousel/17.jpeg", caption: "Community Support" },
-  { src: "/images/carousel/18.jpeg", caption: "Understanding Widowers needs" },
-  { src: "/images/carousel/19.jpeg", caption: "Empowering Lives" },
-  { src: "/images/carousel/20.jpeg", caption: "Together We Thrive" },
-  { src: "/images/carousel/21.jpeg", caption: "Strength in Unity" },
-  { src: "/images/carousel/22.jpeg", caption: "Awareness" },
-  { src: "/images/carousel/23.jpeg", caption: "Fostering Community" },
-  { src: "/images/carousel/24.jpeg", caption: "Empowering Elders" },
-  { src: "/images/carousel/25.jpeg", caption: "Social Change in Action" },
->>>>>>> f9b6c8ae3fa8909e84750c322093353bbd2b02a6
 ];
 
 export default function Economic() {

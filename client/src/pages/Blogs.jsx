@@ -24,7 +24,7 @@ strength and visibility to a group often forgotten.`
 ];
 
 const blogImages = [
-<<<<<<< HEAD
+
   { src: "/images/carousel/21.jpeg"},
   { src: "/images/carousel/22.jpeg"},
   { src: "/images/carousel/23.jpeg" },
@@ -35,18 +35,7 @@ const blogImages = [
   { src: "/images/carousel/28.jpeg" },
   { src: "/images/carousel/29.jpeg" },
   { src: "/images/carousel/30.jpeg" },
-=======
-  { src: "/images/carousel/21.jpeg", caption: "Empowering the Elderly" },
-  { src: "/images/carousel/22.jpeg", caption: "Voices of Change" },
-  { src: "/images/carousel/23.jpeg", caption: "Empowering Communities" },
-  { src: "/images/carousel/24.jpeg", caption: "Inspiring Action" },
-  { src: "/images/carousel/25.jpeg", caption: "Together We Rise" },
-  { src: "/images/carousel/26.jpeg", caption: "Restoring hope and dignity" },
-  { src: "/images/carousel/27.jpeg", caption: "Stories that inspires" },
-  { src: "/images/carousel/28.jpeg", caption: "Empowerment in Action" },
-  { src: "/images/carousel/29.jpeg", caption: "Hope and Resilience" },
-  { src: "/images/carousel/30.jpeg", caption: "Going for Community Voices" },
->>>>>>> f9b6c8ae3fa8909e84750c322093353bbd2b02a6
+
 ];
 
 

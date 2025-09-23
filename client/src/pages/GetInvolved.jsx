@@ -4,7 +4,7 @@ import ImageCarousel from "../components/Carousel";
 
 // Example (can be imported from another fil
 const getInvolvedImages = [
-<<<<<<< HEAD
+
   { src: "/images/carousel/40.jpeg"},
   { src: "/images/carousel/41.jpeg" },
   { src: "/images/carousel/42.jpeg" },
@@ -16,18 +16,7 @@ const getInvolvedImages = [
   { src: "/images/carousel/48.jpeg"},
   { src: "/images/carousel/49.jpeg" },
   { src: "/images/carousel/50.jpeg" }
-=======
-  { src: "/images/carousel/40.jpeg", caption: "Supporting Widowers" },
-  { src: "/images/carousel/50.jpeg", caption: "Serving the Elderly" },
-  { src: "/images/carousel/51.jpeg", caption: "Restoring Dignity" },
-  { src: "/images/carousel/52.jpeg", caption: "Empowering Communities" },
-  { src: "/images/carousel/53.jpeg", caption: "Together We Can Make a Difference" },
-  { src: "/images/carousel/55.jpeg", caption: "Join the Movement" },
-  { src: "/images/carousel/56.jpeg", caption: "Building a Better Future" },
-  { src: "/images/carousel/57.jpeg", caption: "Your Support Matters" },
-  { src: "/images/carousel/58.jpeg", caption: "Get Involved Today" },
-  { src: "/images/carousel/59.jpeg", caption: "Partner with WHESS" },
->>>>>>> f9b6c8ae3fa8909e84750c322093353bbd2b02a6
+
 ];
 
 

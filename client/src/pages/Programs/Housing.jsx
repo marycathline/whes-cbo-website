@@ -1,5 +1,5 @@
 // src/pages/Programs/Housing.jsx
-<<<<<<< HEAD
+
 import elderlyImg from "../../assets/elderly.jpg";
 import ImageCarousel from '../../components/Carousel';
 
@@ -9,17 +9,7 @@ const housingImages = [
   { src: "/images/carousel/60.jpeg" },
   { src: "/images/carousel/61.jpeg"},
   { src: "/images/carousel/62.jpeg"},
-=======
-import elderlyImg from "../../assets/elderly.jpeg";
-import ImageCarousel from '../../components/Carousel';
 
-const housingImages = [
-  { src: "/images/carousel/26.jpeg", caption: "Safe Housing" },
-  { src: "/images/carousel/27.jpeg", caption: "Community Living" },
-  { src: "/images/carousel/28.jpeg", caption: "Supportive Environments" },
-  { src: "/images/carousel/29.jpeg", caption: "Dignified Living" },
-  { src: "/images/carousel/30.jpeg", caption: "Empowering Widowers" },
->>>>>>> f9b6c8ae3fa8909e84750c322093353bbd2b02a6
 ];
 
 export default function Housing() {
