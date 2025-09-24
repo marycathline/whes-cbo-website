@@ -8,13 +8,13 @@ import ImageCarousel from "../components/Carousel";
 
 const programImages = [
 
-  { src: "/images/carousel/51.jpeg"},
-  { src: "/images/carousel/52.jpeg" },
-  { src: "/images/carousel/53.jpeg" },
-  { src: "/images/carousel/54.jpeg" },
-  { src: "/images/carousel/55.jpeg" },
-  { src: "/images/carousel/56.jpeg" },
-  { src: "/images/carousel/57.jpeg" },
+  { src: "/images/carousel/1.jpg"},
+  { src: "/images/carousel/2.jpeg" },
+  { src: "/images/carousel/8.jpeg" },
+  { src: "/images/carousel/28.jpg" },
+  { src: "/images/carousel/34.jpg" },
+  { src: "/images/carousel/33.jpg" },
+  { src: "/images/carousel/57.jpg" },
 
 
   

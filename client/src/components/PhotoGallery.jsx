@@ -1,7 +1,7 @@
 // src/components/PhotoGallery.jsx
 export default function PhotoGallery() {
   const media = [
-    { type: "image", src: "/images/gallery/photo1.jpg", alt: "Medical Camp" },
+    { type: "image", src: "/images/gallery/photo1.jpeg", alt: "Medical Camp" },
     { type: "image", src: "/images/gallery/photo2.jpg", alt: "Empowerment Talk" },
     { type: "video", src: "/images/gallery/video1.mp4", alt: "Training Session" },
     { type: "image", src: "/images/gallery/photo3.jpg", alt: "Widower Wellness" },
