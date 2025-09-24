@@ -5,17 +5,13 @@ import ImageCarousel from "../components/Carousel";
 // Example (can be imported from another fil
 const getInvolvedImages = [
 
-  { src: "/images/carousel/40.jpeg"},
-  { src: "/images/carousel/41.jpeg" },
-  { src: "/images/carousel/42.jpeg" },
-  { src: "/images/carousel/43.jpeg"},
-  { src: "/images/carousel/44.jpeg" },
-  { src: "/images/carousel/45.jpeg" },
-  { src: "/images/carousel/46.jpeg"},
-  { src: "/images/carousel/47.jpeg" },
-  { src: "/images/carousel/48.jpeg"},
-  { src: "/images/carousel/49.jpeg" },
-  { src: "/images/carousel/50.jpeg" }
+  { src: "/images/carousel/4.jpg"},
+  { src: "/images/carousel/13.jpeg" },
+  { src: "/images/carousel/32.jpg" },
+  { src: "/images/carousel/24.jpeg"},
+  { src: "/images/carousel/60.jpg" },
+  { src: "/images/carousel/63.jpg" },
+  { src: "/images/carousel/51.jpg" }
 
 ];
 

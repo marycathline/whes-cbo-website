@@ -17,16 +17,16 @@ function ImpactCard({ number, title, description }) {
 
 // ✅ Image data moved outside the components
 const homeImages = [
-  { src: "/images/carousel/1.jpeg"},
+  { src: "/images/carousel/1.jpg"},
   { src: "/images/carousel/2.jpeg"},
-  { src: "/images/carousel/3.jpeg" },
-  { src: "/images/carousel/4.jpeg" },
+  { src: "/images/carousel/48.jpg" },
+  { src: "/images/carousel/4.jpg" },
   { src: "/images/carousel/5.jpeg"},
-  { src: "/images/carousel/6.jpeg" },
-  { src: "/images/carousel/7.jpeg" },
+  { src: "/images/carousel/20.jpeg" },
+  { src: "/images/carousel/32.jpg" },
   { src: "/images/carousel/8.jpeg" },
-  { src: "/images/carousel/9.jpeg" },
-  { src: "/images/carousel/10.jpeg"},
+  { src: "/images/carousel/13.jpeg" },
+  { src: "/images/carousel/14.jpeg"},
 
 ];
 
