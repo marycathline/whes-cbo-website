@@ -3,16 +3,14 @@ import socialImg from '../../assets/social.jpg';
 import ImageCarousel from '../../components/Carousel';
 
 const socialImages = [
-  { src: "/images/carousel/16.jpeg" },
-  { src: "/images/carousel/17.jpeg" },
-  { src: "/images/carousel/18.jpeg" },
-  { src: "/images/carousel/19.jpeg"},
-  { src: "/images/carousel/20.jpeg" },
-  { src: "/images/carousel/21.jpeg"},
-  { src: "/images/carousel/22.jpeg" },
-  { src: "/images/carousel/23.jpeg" },
-  { src: "/images/carousel/24.jpeg"},
-  { src: "/images/carousel/25.jpeg" },
+  { src: "/media/16.jpg" },
+  { src: "/media/17.jpg" },
+  { src: "/media/18.jpg" },
+  { src: "/media/19.jpg" },
+  { src: "/media/20.jpg" },
+  { src: "/media/21.jpg" },
+  { src: "/media/22.jpg" }
+  
 
 ];
 

@@ -8,7 +8,7 @@ const blogPosts = [
     title: "Restoring Dignity on Godhe Island",
     date: "Friday, 11th July 2025",
     focus: "Elderly Widowers",
-    image: "/ngodhe-island.jpeg", // ✅  /public/ngodhe-island.jpg
+    image: "/ngodhe-island.jpg", // ✅  /public/ngodhe-island.jpg
     content: `On Friday, 11th July 2025, Widowers Health and Empowerment Support Services (WHESS), 
 led by Director Samwel Okombo, Dr. Franklin Odayoa, and Barrack Nyaranga, visited Godhe Island
 in Homa Bay County as part of their mission to restore dignity and hope to elderly widowers.
@@ -25,16 +25,16 @@ strength and visibility to a group often forgotten.`
 
 const blogImages = [
 
-  { src: "/images/carousel/21.jpeg"},
-  { src: "/images/carousel/22.jpeg"},
-  { src: "/images/carousel/23.jpeg" },
-  { src: "/images/carousel/24.jpeg"},
-  { src: "/images/carousel/25.jpeg"},
-  { src: "/images/carousel/26.jpeg"},
-  { src: "/images/carousel/27.jpeg"},
-  { src: "/images/carousel/28.jpeg" },
-  { src: "/images/carousel/29.jpeg" },
-  { src: "/images/carousel/30.jpeg" },
+  { src: "/media/14.jpg"},
+  { src: "/media/19.jpg"},
+  { src: "/media/17.jpg"},
+  { src: "/media/22.jpg"},
+  { src: "/media/21.jpg"},
+  { src: "/media/24.jpg"},
+  { src: "/media/21.jpg"},
+  { src: "/media/9.jpg"},
+  { src: "/media/3.jpg"}
+
 
 ];
 

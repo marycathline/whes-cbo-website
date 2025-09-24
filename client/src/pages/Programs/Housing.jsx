@@ -4,11 +4,14 @@ import elderlyImg from "../../assets/elderly.jpg";
 import ImageCarousel from '../../components/Carousel';
 
 const housingImages = [
-  { src: "/images/carousel/58.jpeg"},
-  { src: "/images/carousel/59.jpeg"},
-  { src: "/images/carousel/60.jpeg" },
-  { src: "/images/carousel/61.jpeg"},
-  { src: "/images/carousel/62.jpeg"},
+  { src: "/media/8.jpg"},
+  { src: "/media/10.jpg"},
+  { src: "/media/9.jpg"},
+  { src: "/media/16.jpg"},
+  { src: "/media/12.jpg"},
+  { src: "/media/13.jpg"},
+  { src: "/media/19.jpg"}
+ 
 
 ];
 

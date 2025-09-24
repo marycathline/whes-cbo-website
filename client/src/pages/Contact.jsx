@@ -4,16 +4,16 @@ import ImageCarousel from "../components/Carousel";
 
 const contactImages = [
 
-  { src: "/images/carousel/31.jpeg" },
-  { src: "/images/carousel/32.jpeg"},
-  { src: "/images/carousel/33.jpeg" },
-  { src: "/images/carousel/34.jpeg" },
-  { src: "/images/carousel/35.jpeg" },
-  { src: "/images/carousel/36.jpeg" },
-  { src: "/images/carousel/37.jpeg"},
-  { src: "/images/carousel/38.jpeg"},
-  { src: "/images/carousel/39.jpeg"},
-  { src: "/images/carousel/40.jpeg" },
+  { src: "/images/carousel/28.jpg" },
+  { src: "/images/carousel/8.jpeg"},
+  { src: "/images/carousel/33.jpg" },
+  { src: "/images/carousel/14.jpeg" },
+  { src: "/media/4.jpg" },
+  { src: "/media/11.jpg" },
+  { src: "/media/20.jpg" },
+  { src: "/media/24.jpg" },
+  { src: "/media/9.jpg" }
+  
 
 ];
 

@@ -4,13 +4,14 @@ import healthImg from "../../assets/health.jpg";
 import ImageCarousel from "../../components/Carousel";
 
 const healthImages = [
-  { src: "/images/carousel/1.jpg" },
-  { src: "/images/carousel/24.jpeg" },
-  { src: "/images/carousel/2.jpeg" },
-  { src: "/images/carousel/58.jpg" },
-  { src: "/images/carousel/47.jpg"},
-  { src: "/images/carousel/48.jpg"},
-  { src: "/images/carousel/33.jpg" }
+  { src: "/media/1.jpg" },
+  { src: "/media/2.jpg" },
+  { src: "/media/3.jpg" },
+  { src: "/media/4.jpg" },
+  { src: "/media/5.jpg" },
+  { src: "/media/6.jpg" },
+  { src: "/media/11.jpg" },
+  { src: "/media/20.jpg" }
 
 ];
 
