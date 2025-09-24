@@ -23,20 +23,28 @@ strength and visibility to a group often forgotten.`
   },
 ];
 
+// ✅ Import images directly from assets
+import img14 from "../assets/media/14.jpg";
+import img19 from "../assets/media/19.jpg";
+import img17 from "../assets/media/17.jpg";
+import img22 from "../assets/media/22.jpg";
+import img21 from "../assets/media/21.jpg";
+import img24 from "../assets/media/24.jpg";
+import img9 from "../assets/media/9.jpg";
+import img3 from "../assets/media/3.jpg";
+
 const blogImages = [
-
-  { src: "/media/14.jpg"},
-  { src: "/media/19.jpg"},
-  { src: "/media/17.jpg"},
-  { src: "/media/22.jpg"},
-  { src: "/media/21.jpg"},
-  { src: "/media/24.jpg"},
-  { src: "/media/21.jpg"},
-  { src: "/media/9.jpg"},
-  { src: "/media/3.jpg"}
-
-
+  { src: img14 },
+  { src: img19 },
+  { src: img17 },
+  { src: img22 },
+  { src: img21 },
+  { src: img24 },
+  { src: img21 },
+  { src: img9 },
+  { src: img3 },
 ];
+
 
 
 export default function Blog() {

@@ -1,23 +1,31 @@
 // src/pages/Programs/Economic.jsx
-import socialImg from '../../assets/social.jpg';
-import ImageCarousel from '../../components/Carousel';
 
+import socialImg from "../../assets/social.jpg";
+import ImageCarousel from "../../components/Carousel";
+
+// ✅ Import images from src/assets/media (corrected paths)
+import img16 from "../../assets/media/16.jpg";
+import img17 from "../../assets/media/17.jpg";
+import img18 from "../../assets/media/18.jpg";
+import img19 from "../../assets/media/19.jpg";
+import img20 from "../../assets/media/20.jpg";
+import img21 from "../../assets/media/21.jpg";
+import img22 from "../../assets/media/22.jpg";
+
+// ✅ Use them in your array
 const socialImages = [
-  { src: "/media/16.jpg" },
-  { src: "/media/17.jpg" },
-  { src: "/media/18.jpg" },
-  { src: "/media/19.jpg" },
-  { src: "/media/20.jpg" },
-  { src: "/media/21.jpg" },
-  { src: "/media/22.jpg" }
-  
-
+  { src: img16 },
+  { src: img17 },
+  { src: img18 },
+  { src: img19 },
+  { src: img20 },
+  { src: img21 },
+  { src: img22 },
 ];
 
 export default function Economic() {
   return (
     <div className="bg-white text-black min-h-screen p-4">
-      
       {/* Hero Section */}
       <section className="bg-green-600 text-white py-12 text-center">
         <img
@@ -25,9 +33,7 @@ export default function Economic() {
           alt="Economic and social empowerment program"
           className="w-full mt-6 shadow"
         />
-        <h1 className="text-3xl font-bold mt-6">
-          Empowerment
-        </h1>
+        <h1 className="text-3xl font-bold mt-6">Empowerment</h1>
       </section>
       
       {/* Intro Paragraph */}
@@ -72,10 +78,11 @@ export default function Economic() {
           </li>
         </ul>
       </section>
-      <div className="mt-8">
-  <ImageCarousel images={socialImages} />
-</div>
 
+      {/* Carousel Section */}
+      <div className="mt-8">
+        <ImageCarousel images={socialImages} />
+      </div>
     </div>
   );
 }

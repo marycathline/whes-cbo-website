@@ -1,18 +1,28 @@
 // src/pages/Programs/Health.jsx
- 
+
 import healthImg from "../../assets/health.jpg";
 import ImageCarousel from "../../components/Carousel";
 
-const healthImages = [
-  { src: "/media/1.jpg" },
-  { src: "/media/2.jpg" },
-  { src: "/media/3.jpg" },
-  { src: "/media/4.jpg" },
-  { src: "/media/5.jpg" },
-  { src: "/media/6.jpg" },
-  { src: "/media/11.jpg" },
-  { src: "/media/20.jpg" }
+// ✅ Import images directly from src/assets/media (corrected paths)
+import img1 from "../../assets/media/1.jpg";
+import img2 from "../../assets/media/2.jpg";
+import img3 from "../../assets/media/3.jpg";
+import img4 from "../../assets/media/4.jpg";
+import img5 from "../../assets/media/5.jpg";
+import img6 from "../../assets/media/6.jpg";
+import img11 from "../../assets/media/11.jpg";
+import img20 from "../../assets/media/20.jpg";
 
+// ✅ Use them in your array
+const healthImages = [
+  { src: img1 },
+  { src: img2 },
+  { src: img3 },
+  { src: img4 },
+  { src: img5 },
+  { src: img6 },
+  { src: img11 },
+  { src: img20 },
 ];
 
 export default function Health() {
@@ -72,10 +82,10 @@ export default function Health() {
         </ul>
       </div>
 
+      {/* Image Carousel */}
       <div className="mt-8">
-  <ImageCarousel images={healthImages} />
-</div>
-
+        <ImageCarousel images={healthImages} />
+      </div>
     </div>
   );
 }

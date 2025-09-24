@@ -1,18 +1,26 @@
 // src/pages/Programs/Housing.jsx
 
 import elderlyImg from "../../assets/elderly.jpg";
-import ImageCarousel from '../../components/Carousel';
+import ImageCarousel from "../../components/Carousel";
 
+// ✅ Import images from src/assets/media (corrected paths)
+import img8 from "../../assets/media/8.jpg";
+import img10 from "../../assets/media/10.jpg";
+import img9 from "../../assets/media/9.jpg";
+import img16 from "../../assets/media/16.jpg";
+import img12 from "../../assets/media/12.jpg";
+import img13 from "../../assets/media/13.jpg";
+import img19 from "../../assets/media/19.jpg";
+
+// ✅ Create the array
 const housingImages = [
-  { src: "/media/8.jpg"},
-  { src: "/media/10.jpg"},
-  { src: "/media/9.jpg"},
-  { src: "/media/16.jpg"},
-  { src: "/media/12.jpg"},
-  { src: "/media/13.jpg"},
-  { src: "/media/19.jpg"}
- 
-
+  { src: img8 },
+  { src: img10 },
+  { src: img9 },
+  { src: img16 },
+  { src: img12 },
+  { src: img13 },
+  { src: img19 },
 ];
 
 export default function Housing() {
@@ -96,9 +104,7 @@ export default function Housing() {
       </section>
 
       {/* Image Carousel */}
-    
-        <ImageCarousel images={housingImages} />
-      
+      <ImageCarousel images={housingImages} />
     </div>
   );
 }
