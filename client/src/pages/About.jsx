@@ -8,17 +8,12 @@ import ImageCarousel from "../components/Carousel";
 
 const aboutImages = [
   
-
-  { src: "/images/carousel/11.jpeg"},
-  { src: "/images/carousel/12.jpeg" },
   { src: "/images/carousel/13.jpeg"},
   { src: "/images/carousel/14.jpeg"},
-  { src: "/images/carousel/15.jpeg"},
-  { src: "/images/carousel/16.jpeg"},
-  { src: "/images/carousel/17.jpeg" },
-  { src: "/images/carousel/18.jpeg" },
-  { src: "/images/carousel/19.jpeg" },
   { src: "/images/carousel/20.jpeg" },
+  { src: "/images/carousel/28.jpg" },
+  { src: "/images/carousel/48.jpg" },
+  { src: "/images/carousel/57.jpg" },
 ];
 
 export default function About() {
