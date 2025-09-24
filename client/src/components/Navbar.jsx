@@ -60,7 +60,6 @@ export default function Navbar() {
         <div className="md:hidden mt-2 space-y-2 px-4 text-white">
           <Link to="/" className="block py-2 no-underline hover:text-green-400" onClick={() => setIsMobileMenuOpen(false)}>Home</Link>
           <Link to="/about" className="block py-2 no-underline hover:text-green-400" onClick={() => setIsMobileMenuOpen(false)}>About</Link>
-          <Link to="/gallery" className="block py-2 no-underline hover:text-green-400" onClick={() => setIsMobileMenuOpen(false)}>Gallery</Link>
 
           {/* Mobile Dropdown */}
           <div>
