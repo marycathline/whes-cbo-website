@@ -1,16 +1,16 @@
 // src/pages/Programs/Health.jsx
-
+ 
 import healthImg from "../../assets/health.jpg";
 import ImageCarousel from "../../components/Carousel";
 
 const healthImages = [
-  { src: "/images/carousel/63.jpeg" },
-  { src: "/images/carousel/64.jpeg" },
-  { src: "/images/carousel/65.jpeg" },
-  { src: "/images/carousel/66.jpeg" },
-  { src: "/images/carousel/67.jpeg"},
-  { src: "/images/carousel/68.jpeg"},
-  { src: "/images/carousel/69.jpeg" }
+  { src: "/images/carousel/1.jpg" },
+  { src: "/images/carousel/24.jpeg" },
+  { src: "/images/carousel/2.jpeg" },
+  { src: "/images/carousel/58.jpg" },
+  { src: "/images/carousel/47.jpg"},
+  { src: "/images/carousel/48.jpg"},
+  { src: "/images/carousel/33.jpg" }
 
 ];
 
